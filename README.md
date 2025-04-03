@@ -1,21 +1,21 @@
-#🍽️Recipe Project
+# 🍽️ Recipe Project
 
-##👋Introduction:
+## 👋 Introduction:
 
 **Welcome to my first project on GitHub!**
 
 This project is intended to develop understanding of using **HTML** to create my first website. 
 It is a simple recipe website as directed by **The Odin Project's Foundation course**. 
 
-##⚙️Tools & Technologies:
+## ⚙️ Tools & Technologies:
 
 **I will use the following tools and technologies in the project:**
 
 - HTML
 - Visual Studio Code (VSC)
-- WSL2 (Ubuntu) via Terminal
+- WSL2 (Ubuntu) via Terminal 
 
-##✔️Objectives:
+## ✔️ Objectives:
 
 **To create a simple recipe website to aid practice and development of fundamental skills in HTML by completing the following tasks:**
 
